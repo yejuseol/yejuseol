@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Yeju 
+> I'm a Data Science student at Boston University interested in data analytics, machine learning, and visualization.
 
-<!--
-**yejuseol/yejuseol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+Python, R, SQL, pandas, NumPy, scikit-learn, Matplotlib, ggplot2
 
-Here are some ideas to get you started:
+## Featured Projects
+- Loan Approval Prediction
+- SAT & Socioeconomic Factors Analysis
+- Breast Cancer Classification
+- US Crime Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: [linkedin.com/in/yejus/](https://www.linkedin.com/in/yejus/)
+- Email: [yexxjxx@bu.edu](yexxjxx@bu.edu)
