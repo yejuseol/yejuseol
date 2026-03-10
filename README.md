@@ -7,6 +7,7 @@ Python, R, SQL, pandas, NumPy, scikit-learn, Matplotlib, ggplot2
 ## Featured Projects
 - Loan Approval Prediction
 - SAT & Socioeconomic Factors Analysis
+- Breast Cancer Classification
 - US Crime Analysis
 
 ## Contact
